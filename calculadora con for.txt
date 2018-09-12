@@ -15,4 +15,4 @@ namespace Calculadora
 		}
 	}
 }
-// calculadora usando en for.
+// calculadora usando en for cambios para Git.

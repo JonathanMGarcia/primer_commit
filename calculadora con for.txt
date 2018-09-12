@@ -1,0 +1,18 @@
+using System;
+
+namespace Calculadora
+{
+	class Interfaz
+	{
+		public static void Main (string[] args)
+		{
+			Console.WriteLine ("Hello World!");
+			//Se crea una instancia del objeto calculadora.
+			for (int control = 1; control <= 100; control++) {
+				Calculadora calculadora1 = new Calculadora (control);
+			}
+			Console.ReadLine ();
+		}
+	}
+}
+// calculadora usando en for.

@@ -16,3 +16,4 @@ namespace Calculadora
 	}
 }
 // calculadora usando en for cambios para Git.
+// cambios de Andrés
